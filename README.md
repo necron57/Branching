@@ -19,3 +19,5 @@
 
 ## Remote commands
 * `git remote add origin URL` - connect local repo to remote repo URL with alias `origin`
+* `git pull origin main` - pull remote branch `main` into local current branch
+* `git pull origin branchName` - pull remote branch into local current branch
