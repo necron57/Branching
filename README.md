@@ -15,3 +15,4 @@
 * `git branch` - list local branches
 * `git branch branchname` - create new branch `branchname`
 * `git checkout branchname` - move to local branch `branchname`
+*
