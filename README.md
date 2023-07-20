@@ -15,23 +15,10 @@
 * `git branch` - list local branches
 * `git branch branchname` - create new branch `branchname`
 * `git checkout branchname` - move to local branch `branchname`
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> 67af5de96ea151d83833e6584cb115e11f8e4971
 * `git checkout -b branchname` -  create branch and check it out
 
 ## Remote commands
 * `git remote add origin URL` - connect local repo to remote repo URL with alias `origin`
 * `git pull origin main` - pull remote branch `main` into local current branch
 * `git pull origin branchName` - pull remote branch into local current branch
-<<<<<<< HEAD
-* 
-=======
 *
->>>>>>> 229fb36c033eadd3ee5af5c6b94e189640a8ae08
-=======
-*
-
->>>>>>> 67af5de96ea151d83833e6584cb115e11f8e4971
